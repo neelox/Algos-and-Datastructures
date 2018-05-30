@@ -1,0 +1,71 @@
+
+  ::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+#yvideo1
+{
+  display:block;
+  height:30vh;
+  width:30vw;
+}
+
+@media only screen and (max-device-width:800px){
+  #yvideo1{
+  display: none; }
+}
+.carouselright1{
+  height:70vh;
+  font-size:17px;
+  background-color:transparent;
+  color:grey;
+}
+@media only screen and (max-device-width:600px){
+  .carouselright1{
+    height:auto;
+    padding-bottom:5vh;
+ }
+}
+.parapic
+{
+  height:20vh;
+}
+
+body{
+  background-color: black;
+/*  background: url("binary-numers-alpha-overlay-loop-free-stock-video-footage_binary-numbers_variable-voltage-regulator-circuit-silicon-diode-trailer-battery-isolator-series-and-parallel-diagram-what.jpg") fixed center;
+*/
+font-family:sans-serif;
+}
+
+/*linked list*/
+.code{
+  background-color:grey;
+  color:black;
+  border:1px soild blue;
+  border-radius:10px;
+  padding-left: 5px;
+}
+hr{
+  background-color: white;
+}
+a{
+  font-size:15px;
+  text-decoration:none;
+}

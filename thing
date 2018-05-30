@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="homepage.css"/>
+<script src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+  <!--navigation bar-->
+  <nav class="navbar navbar-expand-lg" style="background:linear-gradient(silver,black,black,black,black,silver);height:10vh;margin-top:0vh;" id="navigation" >
+                <a  class="navbar-brand" href="homepage.html" style="margin-right:35px;color:blue;">Algos. and Data Structs. </a>
+                <button style="background-color:blue;color:white;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+
+                Menu
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02" style="position:inherit;z-index:999; ">
+                  <ul class="navbar-nav mr-auto mt-2 mt-lg-0 smallul" style="background-color:black;padding-left:5px;">
+                    <li class="nav-item">
+                            <li class="nav-item dropdown">
+  <!--link-->                                    <a onclick="seff()" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" style="margin-right:35px;color:orange;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      Lingo
+                                    </a>
+                                    <div onclick="seff()" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+  <!--links-->                        <a onclick="seff()" class="dropdown-item" href="#events">Events</a>
+                                      <a onclick="seff()" class="dropdown-item" href="contact.html">Get Notified</a>
+                                      <a onclick="seff()" class="dropdown-item" href="contact.html">Take Quiz</a>
+                                    </div>
+                                  </li>
+                    </li>
+
+                    <li class="nav-item">
+  <!--link-->                            <a onclick="seff()" class="nav-link" href="contact.html" style="margin-right:35px;color:orange;">Differences in C and C++</a>
+                          </li>
+                          <li class="nav-item">
+        <!--link-->                            <a onclick="seff()" class="nav-link" href="contact.html" style="margin-right:35px;color:orange;">Interview Questions</a>
+                                </li>
+                                <li class="nav-item">
+              <!--link-->                            <a onclick="seff()" class="nav-link" href="contact.html" style="margin-right:35px;color:orange;">ABOUT US</a>
+                                      </li>
+                    <li class="nav-item">
+                            <li class="nav-item dropdown">
+  <!--link-->                                    <a onclick="seff()" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" style="margin-right:35px;color:white;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      Engage!
+                                    </a>
+                                    <!--div onclick="seff()" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+  <!-links->                        <a onclick="seff()" class="dropdown-item" href="#events">Events</a>
+                                      <a onclick="seff()" class="dropdown-item" href="contact.html">Get Notified</a>
+                                      <a onclick="seff()" class="dropdown-item" href="contact.html">Take Quiz</a>
+                                    </div-->
+                                  </li>
+                    </li>
+                    <!--li class="nav-item active signin" style="border:1px solid green;background-color:darkgreen;">
+                        <a  class="nav-link signin" href="#" style="margin-right:auto;color:white;">Sign In<span class="sr-only"></span></a>
+                </li-->
+                  </ul>
+
+
+                </div>
+              </nav><!--navigation bar-->
+              <div class="container-fluid">
+<div class="row" style="padding-top:5vh;">
+  <div class="col-lg-8" style="border-right:1px solid white;color:silver;font-family:monospace;">
+  <ul>
+  <h3 align="center">LINKED LISTS</h3>
+  Links:
+  <li><a href="#0">What is a Linked List? </a><br/></li>
+  <li><a href="#1">Code Techniques required for linked lists</a><br/></li>
+  <li><a href="#2">Creating a Linked List</a><br/></li>
+  <li><a href="#3">Operations on Linked Lists</a><br/></li>
+  <li><a href="#4">Applications of Linked Lists</a><br/></li>
+</ul>
+<hr>
+ <div id="0"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="1"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="2"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="3"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="4"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="5"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+ <div id="6"><h5 style="color:orange;">q</h5>halkh
+ <p class="code"><br/>
+dsfnskhnsoflghjlfghj fgjolghdoig fjnoilg
+ </p>
+ </div>
+ <hr>
+
+  </div>
+    <div class="col-lg-4" style="overflow-y:scroll;color:white;">
+    <!-- here will go the video lectures-->jrtgfbgcvkuyj</div>
+</div>
+</div>
+
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
